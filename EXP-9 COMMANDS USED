@@ -1,0 +1,6 @@
+cd /usr/share/wordlists/metasploit-framework/
+
+gem install bundler
+
+bundle install
+
