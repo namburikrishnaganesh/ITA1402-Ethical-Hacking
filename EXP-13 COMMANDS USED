@@ -1,1 +1,7 @@
+nmap -PR 192.168.1.1
 
+nmap -n 192.168.1.1
+
+/usr/share/wordlists/metasploit/
+
+ls /usr/share/wordlists/metasploit/
