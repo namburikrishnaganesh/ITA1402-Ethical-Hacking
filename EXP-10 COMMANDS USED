@@ -1,1 +1,3 @@
+ open " NOTEPAD " then type   "    @echo off    "
 
+ipconfig/release
