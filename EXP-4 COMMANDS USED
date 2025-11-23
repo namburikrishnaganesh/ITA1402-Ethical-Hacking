@@ -1,1 +1,3 @@
+theHarvester -d www.zoho.com -l 100 -b all
+
 
