@@ -1,0 +1,3 @@
+OPEN " CMD " then enter " tracert "
+next enter " tracert www.saveetha.com "
+trace will be completed
