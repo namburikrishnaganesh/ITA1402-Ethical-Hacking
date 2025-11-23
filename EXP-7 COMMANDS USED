@@ -1,0 +1,5 @@
+nikto -h www.saveetha.com -Tuning X
+
+nikto -h www.saveetha.com -Cgidirs all
+
+        host will be successfully tested
