@@ -1,3 +1,5 @@
  open " NOTEPAD " then type   "    @echo off    "
 
-ipconfig/release
+ipconfig/release (to off network)
+
+ipconfig/renew (to on network)
